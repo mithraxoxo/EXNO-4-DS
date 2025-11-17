@@ -382,4 +382,4 @@ rfe.fit(X, y)
 <img width="982" height="880" alt="image" src="https://github.com/user-attachments/assets/4c6799da-2c79-4752-920c-2f6de42a9846" />
 
 # RESULT:
-       Thus, the Feature selection and Feature scaling has been used on thegiven dataset and saved to the file successfully.
+Thus, the Feature selection and Feature scaling has been used on thegiven dataset and saved to the file successfully.
